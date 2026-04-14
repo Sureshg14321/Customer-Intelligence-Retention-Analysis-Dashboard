@@ -116,3 +116,15 @@ Interactivity Features
 
 The Customer Intelligence and Retention Dashboard provides a powerful analytical solution for understanding customer behavior and improving business performance
 
+                                            10.Screenshots of Dashboard
+      
+<img width="472" height="266" alt="image" src="https://github.com/user-attachments/assets/3dcf7bd8-baa1-4527-bcee-e0c2a35d215f" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/f793bc90-f9c5-40bb-80fe-0947830ee04f" />
+
+
+
+
+
+
+
+
